@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://aelse.github.com/hugo-test/"
 languageCode = "en-US"
 title = "Chris Turner"
 # Enable comments by entering your Disqus shortname
