@@ -14,7 +14,6 @@ install:
 
 # Build the website
 script:
-  - cd src
   - ~/bin/hugo --theme=sustain
 
 deploy:
