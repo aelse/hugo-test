@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chris Turner</title>
-    <link>https://example.com/categories/</link>
+    <link>https://aelse.github.com/hugo-test/categories/</link>
     <description>Recent content in Categories on Chris Turner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aelse.github.com/hugo-test/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://example.com/categories/development/</link>
+      <link>https://aelse.github.com/hugo-test/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/development/</guid>
+      <guid>https://aelse.github.com/hugo-test/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://example.com/categories/golang/</link>
+      <link>https://aelse.github.com/hugo-test/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/golang/</guid>
+      <guid>https://aelse.github.com/hugo-test/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/categories/projects/</link>
+      <link>https://aelse.github.com/hugo-test/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://example.com/categories/projects/</guid>
+      <guid>https://aelse.github.com/hugo-test/categories/projects/</guid>
       <description></description>
     </item>
     
