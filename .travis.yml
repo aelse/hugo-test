@@ -14,7 +14,7 @@ install:
 
 # Build the website
 script:
-  - ~/bin/hugo --theme=sustain
+  - ~/bin/hugo --theme=hyde-hyde
 
 deploy:
   provider: pages
